@@ -61,3 +61,5 @@ Implement the following four URLs:
     ```
     SMSTO:9876543210:Hi Alice! It's me, 
     ```
+
+Some rights reserved — see [LICENSE.txt](LICENSE.txt)
